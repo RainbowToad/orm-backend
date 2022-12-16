@@ -8,9 +8,13 @@ This project is the creation of a working back end database for an e-commerce si
 ## Installation
 
 Once the repository is cloned you will simply run from your command line in the appropriate folder:
+
 npm i
+
 npm run seed
+
 npm run start
+
 Interaction is then all through insomnia as there is no front end created for this project.
 
 
